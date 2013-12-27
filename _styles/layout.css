@@ -1,0 +1,61 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+body {
+	margin:25px 0px;
+	text-align:center;
+	background-color:#dcdcdc;
+}
+
+p, li { font-size: .8em; }
+
+p { padding: 0 0 15px 0;}
+
+#wrap {
+	width:800px;
+	min-height:700px;
+	margin:0px auto;
+	text-align:left;
+	padding:50px;
+	background-color:white;
+	border: 1px solid #d3d3d3;
+
+}
+.hidden {
+  display: none;
+}
+
+#masthead {
+	height:100px;
+	width:800px;
+	background: transparent url(http://uniquefurnitureinternational.com/_images/header_logo.gif) no-repeat top left;
+}
+
+#nav {
+	float:right;
+	padding-right:35px;
+}
+
+#nav li {
+	float:left;
+	padding-top:55px;
+	line-height:1.5em;
+	list-style-type:none;
+}
+#nav a {
+	font-family:arial;
+	padding:8px 10px;
+	color:white;
+	text-decoration:none;
+}
+#nav a:hover {
+	color:brown;
+	background-color:white;
+}
+
+a img {
+	border:0;
+}
