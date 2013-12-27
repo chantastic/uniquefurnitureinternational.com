@@ -8,7 +8,7 @@ include ('../_inc/head.inc');
 <!-- content:primary -->
 <div id="content">
 	<h1 style="font-family:arial">Process</h1>
-	<img style="float:right; height: 30%; width=:30%;" src="/_images/process_img.jpg" alt="">
+	<img style="float:right; height: 30%; width=:30%;" src="/img/process_img.jpg" alt="">
 
 
     <h5 style="padding: 0 0 15px 0;">Outdoor Process</h5>
