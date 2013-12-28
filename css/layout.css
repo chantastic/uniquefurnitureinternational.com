@@ -59,3 +59,12 @@ p { padding: 0 0 15px 0;}
 a img {
 	border:0;
 }
+
+.catalog {
+  float:left;
+
+  margin:10px;
+  border:1px solid #dcdcdc;
+  padding:2px;
+  width:150px;
+}
